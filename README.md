@@ -1,5 +1,6 @@
 # oq100term
-software part of the OQ-100 satellite terminal
+Software part of the OQ-100 satellite terminal.
+
 <img src="/img/out.jpg" alt="Kitten"
 	title="A cute kitten" width="640" />
 
